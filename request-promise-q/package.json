@@ -1,0 +1,15 @@
+{
+  "name": "request-promise-q",
+  "version": "1.0.0",
+  "description": "Wrap request module functions with q promises",
+  "main": "RequestPromiseQ.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "molsen",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.5.1",
+    "request": "^2.88.0"
+  }
+}

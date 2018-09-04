@@ -1,0 +1,14 @@
+{
+  "name": "work-queue",
+  "version": "1.0.0",
+  "description": "Accept requests in real time and build a queue (in memory, using promises) of functions (processing REST requests, for example) to be executed sequentially.",
+  "main": "WorkQueue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "molsen",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.5.1"
+  }
+}
